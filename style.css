@@ -1,0 +1,98 @@
+body {
+    background-color: beige
+}
+.gameboard {
+    background-color: black;
+    width: 450px;
+    height: 450px;
+    align-items: center;
+    border-radius: 10px;
+}
+table {
+    border: 3px black solid;
+    border-radius: 10px;
+}
+td {
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    border: 3px black solid;
+    border-radius: 10px;
+
+}
+.two {
+    background-color: rgb(241, 241, 232);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.four {
+    background-color: lightgrey;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.eight {
+    background-color: rgb(238, 202, 103);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.sixteen {
+    background-color: rgb(255, 196, 0);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.thirtytwo {
+    background-color: gold;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.sixtyfour {
+    background-color: rgb(250, 169, 18);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.onetwentyeight {
+    background-color: rgb(235, 120, 79);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.twofiftysix {
+    background-color: orangered;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.fivetwelve {
+    background-color: red;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.onethousandtwentyfour {
+    background-color:darkred;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
+.twentyfourtyeight{
+    background-color: rgb(112, 15, 150);font-size: 50px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
